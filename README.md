@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shivansh Joshi currently pursuing my B.Tech in Mathematics & Computing.
+- 👋 Hi, I’m Shivansh,currently pursuing my B.Tech in Mathematics & Computing.
 - 👀 I’m interested in ML/AI
 - 🌱 I’m currently learning supervised machine learning.
 - 📫 How to reach me gmail->joshishivansh27@gmail.com
