@@ -2,7 +2,7 @@
 - 👀 I’m interested in ML/AI
 - 🌱 I’m currently learning supervised machine learning.
 - 📫 How to reach me gmail->joshishivansh27@gmail.com
-- ⚡ Fun fact: Understanding machine learning algorithms is far more interesting than looking at the ML model's code. Seems to me as a blackbox revealing nothing.
+
   
 
 <!---
